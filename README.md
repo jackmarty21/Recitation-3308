@@ -1,2 +1,3 @@
 Jack Marty - Version Control
-This line might cause a conflict.
+Partner: Scott Randolph
+
